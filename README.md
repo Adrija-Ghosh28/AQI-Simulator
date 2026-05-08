@@ -264,8 +264,8 @@ This enables lightweight embedded inference on edge devices.
 
 # Authors
 
-- Pritam Mondal
 - Adrija Ghosh
+- Pritam Mondal
 
 ---
 
